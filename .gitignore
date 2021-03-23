@@ -1,0 +1,7 @@
+migrations
+venv
+.vscode
+local_gunicorn_config.py
+run.sh
+*.py[ca]
+.env
